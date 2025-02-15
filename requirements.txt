@@ -1,4 +1,3 @@
-dependencies:
-python==3.9.*
+# requirements.txt
 snowflake-snowpark-python
 streamlit
